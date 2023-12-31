@@ -41,7 +41,7 @@ aPackageInfo = [
 		"applications/planetaryorbits/images/Uranus4.png",
 		"applications/planetaryorbits/images/Venus4.png",
 		"applications/planetaryorbits/Planetary-Orbits.ring",
-		"applications/planetaryorbits/README.md",
+		"applications/planetaryorbits/README.md"
 	],
 	:windowsfiles = 	[
 
